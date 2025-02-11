@@ -3,8 +3,10 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
+[Harini Buddaluru] (https://github.com/peanutoil)
+[Marcos Huh] (https://github.com/mh6355)
+[Tarini Mathur] (https://github.com/tmathur2005)
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
 
